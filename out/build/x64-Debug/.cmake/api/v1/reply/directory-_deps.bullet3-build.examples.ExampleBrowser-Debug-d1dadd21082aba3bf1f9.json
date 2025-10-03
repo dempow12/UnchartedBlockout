@@ -1,0 +1,45 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL"
+		],
+		"files" : 
+		[
+			"out/build/x64-Debug/_deps/bullet3-src/examples/ExampleBrowser/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 75,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"lib/BulletExampleBrowserLib_Debug.lib"
+			],
+			"targetId" : "BulletExampleBrowserLib::@d21ba97df553ce4b9869",
+			"targetIndex" : 19,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "_deps/bullet3-build/examples/ExampleBrowser",
+		"source" : "out/build/x64-Debug/_deps/bullet3-src/examples/ExampleBrowser"
+	}
+}

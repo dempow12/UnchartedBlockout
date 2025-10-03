@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/bullet3-src/examples/RobotSimulator/CMakeLists.txt
+  HelloBulletRobotics.cpp
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+     Creating library C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/bullet3-build/examples/RobotSimulator/Debug/App_HelloBulletRobotics_d.lib and object C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/bullet3-build/examples/RobotSimulator/Debug/App_HelloBulletRobotics_d.exp
+  App_HelloBulletRobotics.vcxproj -> C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-build\examples\RobotSimulator\Debug\App_HelloBulletRobotics_d.exe

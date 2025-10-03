@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/bullet3-src/src/BulletInverseDynamics/CMakeLists.txt
+  IDMath.cpp
+  MultiBodyTree.cpp
+  MultiBodyTreeInitCache.cpp
+  MultiBodyTreeImpl.cpp
+  Generating Code...
+  BulletInverseDynamics.vcxproj -> C:\Users\Admin\Desktop\UnchartedBlockout\build\lib\Debug\BulletInverseDynamics_Debug.lib

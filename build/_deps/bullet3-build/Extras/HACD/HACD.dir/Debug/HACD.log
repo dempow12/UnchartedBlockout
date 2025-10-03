@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/bullet3-src/Extras/HACD/CMakeLists.txt
+  hacdGraph.cpp
+  hacdHACD.cpp
+  hacdICHull.cpp
+  hacdManifoldMesh.cpp
+  Generating Code...
+  HACD.vcxproj -> C:\Users\Admin\Desktop\UnchartedBlockout\build\lib\Debug\HACD_Debug.lib

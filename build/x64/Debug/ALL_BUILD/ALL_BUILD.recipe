@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\Admin\Desktop\UnchartedBlockout\build\x64\Debug\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-build\examples\BasicDemo\Debug\AppBasicExampleGui.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-build\examples\BasicDemo\Debug\App_BasicExample.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-build\examples\ExampleBrowser\Debug\App_ExampleBrowser.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-build\examples\RobotSimulator\Debug\App_HelloBulletRobotics_d.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-build\examples\HelloWorld\Debug\App_HelloWorld.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-build\examples\SharedMemory\Debug\App_PhysicsServer_SharedMemory.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-build\examples\SharedMemory\Debug\App_PhysicsServer_SharedMemory_GUI.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-build\examples\RobotSimulator\Debug\App_RobotSimulator_d.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-build\examples\RobotSimulator\Debug\App_RobotSimulator_NoGUI_d.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-build\examples\TwoJoint\Debug\App_TwoJoint_d.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-build\Extras\obj2sdf\Debug\App_obj2sdf.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Admin\Desktop\UnchartedBlockout\build\Debug\UnchartedBlockout.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Admin\Desktop\UnchartedBlockout\build\x64\Debug\ALL_BUILD</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

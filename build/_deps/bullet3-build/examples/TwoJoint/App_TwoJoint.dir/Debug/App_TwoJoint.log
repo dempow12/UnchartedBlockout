@@ -1,0 +1,167 @@
+﻿  Building Custom Rule C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/bullet3-src/examples/TwoJoint/CMakeLists.txt
+  TwoJointMain.cpp
+  collisionFilterPlugin.cpp
+  pdControlPlugin.cpp
+  b3RobotSimulatorClientAPI_NoDirect.cpp
+  IKTrajectoryHelper.cpp
+  InProcessExampleBrowser.cpp
+  tinyRendererPlugin.cpp
+  TinyRendererVisualShapeConverter.cpp
+  geometry.cpp
+  model.cpp
+  tgaimage.cpp
+  our_gl.cpp
+  TinyRenderer.cpp
+  InProcessMemory.cpp
+  PhysicsClient.cpp
+  PhysicsServer.cpp
+  GraphicsServerExample.cpp
+  GraphicsClientExample.cpp
+  RemoteGUIHelper.cpp
+  RemoteGUIHelperTCP.cpp
+  Generating Code...
+  Compiling...
+  PhysicsServerExample.cpp
+  PhysicsServerExampleBullet2.cpp
+  SharedMemoryInProcessPhysicsC_API.cpp
+  PhysicsServerSharedMemory.cpp
+  PhysicsDirect.cpp
+  PhysicsDirectC_API.cpp
+  PhysicsServerCommandProcessor.cpp
+  b3PluginManager.cpp
+  PhysicsClientSharedMemory.cpp
+  PhysicsClientSharedMemory_C_API.cpp
+  PhysicsClientC_API.cpp
+  Win32SharedMemory.cpp
+  PosixSharedMemory.cpp
+  b3ResourcePath.cpp
+  RobotLoggingUtil.cpp
+  tinyxml2.cpp
+  tiny_obj_loader.cpp
+  stb_image.cpp
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(220,9): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(228,17): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(268,9): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(290,17): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(524,10): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(601,10): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(628,10): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(1643,43): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(1680,12): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(1707,11): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(2851,43): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(2984,47): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(2990,64): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3001,30): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3003,23): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3014,46): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3058,14): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3062,13): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3085,19): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3092,11): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3110,11): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3164,12): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3380,24): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3391,28): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3396,11): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3577,10): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3581,10): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3589,10): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3597,10): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3610,10): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3627,10): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3631,19): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3795,26): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3824,11): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3835,25): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3836,33): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3853,13): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3874,29): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3894,29): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3906,16): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3917,33): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3944,24): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3945,32): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4177,23): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4182,31): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4188,13): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4202,12): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4233,27): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4243,28): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4262,13): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4299,13): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4336,12): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4458,10): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4468,21): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4473,39): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4477,39): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4537,12): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+  LoadMeshFromCollada.cpp
+  LoadMeshFromObj.cpp
+  Generating Code...
+  Compiling...
+  Wavefront2GLInstanceGraphicsShape.cpp
+  BulletMJCFImporter.cpp
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportMJCFDemo\BulletMJCFImporter.cpp(1450,54): warning C4804: '>': unsafe use of type 'bool' in operation
+  BulletUrdfImporter.cpp
+  MyMultiBodyCreator.cpp
+  URDF2Bullet.cpp
+  UrdfParser.cpp
+  urdfStringSplit.cpp
+  b3ImportMeshUtility.cpp
+  b3PosixThreadSupport.cpp
+  b3Win32ThreadSupport.cpp
+  b3ThreadSupportInterface.cpp
+  PhysicsClientUDP.cpp
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\PhysicsClientUDP.cpp(167,8): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+      C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\PhysicsClientUDP.cpp(167,8):
+      consider using '%zu' in the format string
+  
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\PhysicsClientUDP.cpp(223,8): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+      C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\PhysicsClientUDP.cpp(223,8):
+      consider using '%zu' in the format string
+  
+  PhysicsClientUDP_C_API.cpp
+  PhysicsClientTCP.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\stdint.h(57,9): warning C4005: 'UINT8_MAX': macro redefinition
+  (compiling source file '../../../bullet3-src/examples/SharedMemory/PhysicsClientTCP.cpp')
+      C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\clsocket\src\Host.h(107,9):
+      see previous definition of 'UINT8_MAX'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\stdint.h(58,9): warning C4005: 'UINT16_MAX': macro redefinition
+  (compiling source file '../../../bullet3-src/examples/SharedMemory/PhysicsClientTCP.cpp')
+      C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\clsocket\src\Host.h(110,9):
+      see previous definition of 'UINT16_MAX'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\stdint.h(59,9): warning C4005: 'UINT32_MAX': macro redefinition
+  (compiling source file '../../../bullet3-src/examples/SharedMemory/PhysicsClientTCP.cpp')
+      C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\clsocket\src\Host.h(113,9):
+      see previous definition of 'UINT32_MAX'
+  
+  PhysicsClientTCP_C_API.cpp
+  SimpleSocket.cpp
+  ActiveSocket.cpp
+  PassiveSocket.cpp
+  Generating Code...
+  win32.c
+  unix.c
+  callbacks.c
+  compress.c
+  host.c
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\enet\host.c(229,57): warning C5287: operands are different enum types '_ENetProtocolCommand' and '_ENetProtocolFlag'; use an explicit cast to silence this warning
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\enet\host.c(456,67): warning C5287: operands are different enum types '_ENetProtocolCommand' and '_ENetProtocolFlag'; use an explicit cast to silence this warning
+  list.c
+  packet.c
+  peer.c
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\enet\peer.c(50,68): warning C5287: operands are different enum types '_ENetProtocolCommand' and '_ENetProtocolFlag'; use an explicit cast to silence this warning
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\enet\peer.c(131,56): warning C5287: operands are different enum types '_ENetProtocolCommand' and '_ENetProtocolFlag'; use an explicit cast to silence this warning
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\enet\peer.c(190,67): warning C5287: operands are different enum types '_ENetProtocolCommand' and '_ENetProtocolFlag'; use an explicit cast to silence this warning
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\enet\peer.c(195,64): warning C5287: operands are different enum types '_ENetProtocolCommand' and '_ENetProtocolFlag'; use an explicit cast to silence this warning
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\enet\peer.c(404,54): warning C5287: operands are different enum types '_ENetProtocolCommand' and '_ENetProtocolFlag'; use an explicit cast to silence this warning
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\enet\peer.c(467,61): warning C5287: operands are different enum types '_ENetProtocolCommand' and '_ENetProtocolFlag'; use an explicit cast to silence this warning
+  protocol.c
+C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\enet\protocol.c(385,70): warning C5287: operands are different enum types '_ENetProtocolCommand' and '_ENetProtocolFlag'; use an explicit cast to silence this warning
+  Generating Code...
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+     Creating library C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/bullet3-build/examples/TwoJoint/Debug/App_TwoJoint_d.lib and object C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/bullet3-build/examples/TwoJoint/Debug/App_TwoJoint_d.exp
+  App_TwoJoint.vcxproj -> C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-build\examples\TwoJoint\Debug\App_TwoJoint_d.exe

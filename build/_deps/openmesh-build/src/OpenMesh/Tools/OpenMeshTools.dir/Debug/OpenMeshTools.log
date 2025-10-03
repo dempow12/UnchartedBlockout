@@ -1,0 +1,13 @@
+﻿  Building Custom Rule C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/openmesh-src/src/OpenMesh/Tools/CMakeLists.txt
+  Observer.cc
+  Gnuplot.cc
+  Timer.cc
+  conio.cc
+  VFront.cc
+  VHierarchy.cc
+  VHierarchyNodeIndex.cc
+  VHierarchyWindow.cc
+  ViewingParameters.cc
+  Generating Code...
+  getopt.c
+  OpenMeshTools.vcxproj -> C:\Users\Admin\Desktop\UnchartedBlockout\build\lib\Debug\OpenMeshToolsd.lib

@@ -1,0 +1,12 @@
+﻿  Building Custom Rule C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/bullet3-src/examples/ThirdPartyLibs/BussIK/CMakeLists.txt
+  Jacobian.cpp
+  LinearR2.cpp
+  LinearR3.cpp
+  LinearR4.cpp
+  MatrixRmn.cpp
+  Misc.cpp
+  Node.cpp
+  Tree.cpp
+  VectorRn.cpp
+  Generating Code...
+  BussIK.vcxproj -> C:\Users\Admin\Desktop\UnchartedBlockout\build\lib\Debug\BussIK_Debug.lib

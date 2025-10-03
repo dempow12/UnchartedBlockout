@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-subbuild\CMakeFiles\2372462745a2692c67a6a65d600d9fbb\bullet3-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-subbuild\CMakeFiles\2372462745a2692c67a6a65d600d9fbb\bullet3-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-subbuild\CMakeFiles\2372462745a2692c67a6a65d600d9fbb\bullet3-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-subbuild\CMakeFiles\2372462745a2692c67a6a65d600d9fbb\bullet3-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-subbuild\CMakeFiles\2372462745a2692c67a6a65d600d9fbb\bullet3-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-subbuild\CMakeFiles\2372462745a2692c67a6a65d600d9fbb\bullet3-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-subbuild\CMakeFiles\2372462745a2692c67a6a65d600d9fbb\bullet3-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-subbuild\CMakeFiles\2372462745a2692c67a6a65d600d9fbb\bullet3-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-subbuild\CMakeFiles\345c257ede7caff0875d61acf4908f94\bullet3-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-subbuild\CMakeFiles\8d8a543613cd6c2a36a069fd4c0f27b2\bullet3-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-subbuild\CMakeFiles\bullet3-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{DE8ACFD8-103E-3DF7-B223-F75EC972BA48}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

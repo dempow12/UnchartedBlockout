@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-subbuild\CMakeFiles\8d8a543613cd6c2a36a069fd4c0f27b2\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{DE8ACFD8-103E-3DF7-B223-F75EC972BA48}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

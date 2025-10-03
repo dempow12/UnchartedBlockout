@@ -1,0 +1,7 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-4.1/Modules/AddFileDependencies.cmake
+C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/openmesh-src/cmake-library/VCI/MSVCMacros.cmake
+C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/openmesh-src/cmake-library/VCI/VCICommon.cmake
+C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/openmesh-src/cmake-library/VCI/VCICompiler.cmake
+C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/openmesh-src/cmake-library/VCI/VCIPaths.cmake
+C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/openmesh-src/src/OpenMesh/Core/CMakeLists.txt

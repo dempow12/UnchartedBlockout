@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/bullet3-src/Extras/obj2sdf/CMakeLists.txt
+  obj2sdf.cpp
+  b3ResourcePath.cpp
+  tiny_obj_loader.cpp
+  Generating Code...
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+  App_obj2sdf.vcxproj -> C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-build\Extras\obj2sdf\Debug\App_obj2sdf.exe

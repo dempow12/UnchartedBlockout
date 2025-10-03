@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\test\gtest-1.7.0\src\gtest-all.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\test\gtest-1.7.0\include\gtest\gtest-death-test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\test\gtest-1.7.0\include\gtest\gtest-message.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\test\gtest-1.7.0\include\gtest\gtest-param-test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\test\gtest-1.7.0\include\gtest\gtest-printers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\test\gtest-1.7.0\include\gtest\gtest-spi.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\test\gtest-1.7.0\include\gtest\gtest-test-part.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\test\gtest-1.7.0\include\gtest\gtest-typed-test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\test\gtest-1.7.0\include\gtest\gtest.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\test\gtest-1.7.0\include\gtest\gtest_pred_impl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\test\gtest-1.7.0\include\gtest\gtest_prod.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\test\gtest-1.7.0\include\gtest\internal\gtest-death-test-internal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\test\gtest-1.7.0\include\gtest\internal\gtest-filepath.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\test\gtest-1.7.0\include\gtest\internal\gtest-internal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\test\gtest-1.7.0\include\gtest\internal\gtest-linked_ptr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\test\gtest-1.7.0\include\gtest\internal\gtest-param-util-generated.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\test\gtest-1.7.0\include\gtest\internal\gtest-param-util.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\test\gtest-1.7.0\include\gtest\internal\gtest-port.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\test\gtest-1.7.0\include\gtest\internal\gtest-string.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\test\gtest-1.7.0\include\gtest\internal\gtest-tuple.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\test\gtest-1.7.0\include\gtest\internal\gtest-type-util.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\test\gtest-1.7.0\src\gtest-internal-inl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\test\gtest-1.7.0\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{29BD08BA-372D-37CA-8E88-91D2D73A2B74}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{84E8E1ED-B9A4-3693-8DFD-44EEAB9AADA3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

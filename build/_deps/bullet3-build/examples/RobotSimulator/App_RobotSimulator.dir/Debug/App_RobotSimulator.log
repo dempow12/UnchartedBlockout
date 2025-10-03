@@ -1,0 +1,16 @@
+﻿  Building Custom Rule C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/bullet3-src/examples/RobotSimulator/CMakeLists.txt
+  RobotSimulatorMain.cpp
+  b3RobotSimulatorClientAPI.cpp
+  MinitaurSetup.cpp
+  InProcessExampleBrowser.cpp
+  GraphicsServerExample.cpp
+  GraphicsClientExample.cpp
+  RemoteGUIHelper.cpp
+  RemoteGUIHelperTCP.cpp
+  PhysicsServerExample.cpp
+  PhysicsServerExampleBullet2.cpp
+  SharedMemoryInProcessPhysicsC_API.cpp
+  Generating Code...
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+     Creating library C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/bullet3-build/examples/RobotSimulator/Debug/App_RobotSimulator_d.lib and object C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/bullet3-build/examples/RobotSimulator/Debug/App_RobotSimulator_d.exp
+  App_RobotSimulator.vcxproj -> C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-build\examples\RobotSimulator\Debug\App_RobotSimulator_d.exe

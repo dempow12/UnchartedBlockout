@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Admin/Desktop/UnchartedBlockout/out/build/x64-Debug/_deps/openmesh-subbuild/CMakeFiles/openmesh-populate"
+		},
+		{
+			"file" : "C:/Users/Admin/Desktop/UnchartedBlockout/out/build/x64-Debug/_deps/openmesh-subbuild/CMakeFiles/openmesh-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Admin/Desktop/UnchartedBlockout/out/build/x64-Debug/_deps/openmesh-subbuild/CMakeFiles/openmesh-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Admin/Desktop/UnchartedBlockout/out/build/x64-Debug/_deps/openmesh-subbuild/openmesh-populate-prefix/src/openmesh-populate-stamp/openmesh-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Admin/Desktop/UnchartedBlockout/out/build/x64-Debug/_deps/openmesh-subbuild/openmesh-populate-prefix/src/openmesh-populate-stamp/openmesh-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Admin/Desktop/UnchartedBlockout/out/build/x64-Debug/_deps/openmesh-subbuild/openmesh-populate-prefix/src/openmesh-populate-stamp/openmesh-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Admin/Desktop/UnchartedBlockout/out/build/x64-Debug/_deps/openmesh-subbuild/openmesh-populate-prefix/src/openmesh-populate-stamp/openmesh-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Admin/Desktop/UnchartedBlockout/out/build/x64-Debug/_deps/openmesh-subbuild/openmesh-populate-prefix/src/openmesh-populate-stamp/openmesh-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Admin/Desktop/UnchartedBlockout/out/build/x64-Debug/_deps/openmesh-subbuild/openmesh-populate-prefix/src/openmesh-populate-stamp/openmesh-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Admin/Desktop/UnchartedBlockout/out/build/x64-Debug/_deps/openmesh-subbuild/openmesh-populate-prefix/src/openmesh-populate-stamp/openmesh-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/Admin/Desktop/UnchartedBlockout/out/build/x64-Debug/_deps/openmesh-subbuild/openmesh-populate-prefix/src/openmesh-populate-stamp/openmesh-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"openmesh-populate"
+		],
+		"name" : "openmesh-populate"
+	}
+}

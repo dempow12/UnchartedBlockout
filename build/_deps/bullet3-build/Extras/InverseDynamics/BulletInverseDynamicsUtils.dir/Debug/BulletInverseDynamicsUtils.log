@@ -1,0 +1,15 @@
+﻿  Building Custom Rule C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/bullet3-src/Extras/InverseDynamics/CMakeLists.txt
+  CloneTreeCreator.cpp
+  CoilCreator.cpp
+  MultiBodyTreeCreator.cpp
+  btMultiBodyTreeCreator.cpp
+  DillCreator.cpp
+  MultiBodyTreeDebugGraph.cpp
+  invdyn_bullet_comparison.cpp
+  IDRandomUtil.cpp
+  RandomTreeCreator.cpp
+  SimpleTreeCreator.cpp
+  MultiBodyNameMap.cpp
+  User2InternalIndex.cpp
+  Generating Code...
+  BulletInverseDynamicsUtils.vcxproj -> C:\Users\Admin\Desktop\UnchartedBlockout\build\lib\Debug\BulletInverseDynamicsUtils_Debug.lib

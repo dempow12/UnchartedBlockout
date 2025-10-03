@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/bullet3-src/src/Bullet3Common/CMakeLists.txt
+  b3AlignedAllocator.cpp
+  b3Vector3.cpp
+  b3Logging.cpp
+  Generating Code...
+  Bullet3Common.vcxproj -> C:\Users\Admin\Desktop\UnchartedBlockout\build\lib\Debug\Bullet3Common_Debug.lib

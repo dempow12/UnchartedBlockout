@@ -1,0 +1,3 @@
+C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/bullet3-subbuild/CMakeFiles/bullet3-populate.dir
+C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/bullet3-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/bullet3-subbuild/CMakeFiles/ZERO_CHECK.dir

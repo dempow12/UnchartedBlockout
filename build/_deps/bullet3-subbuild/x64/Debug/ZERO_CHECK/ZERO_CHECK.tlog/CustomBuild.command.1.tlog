@@ -1,0 +1,10 @@
+^C:\USERS\ADMIN\DESKTOP\UNCHARTEDBLOCKOUT\BUILD\_DEPS\BULLET3-SUBBUILD\CMAKEFILES\8D8A543613CD6C2A36A069FD4C0F27B2\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/bullet3-subbuild -BC:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/bullet3-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/bullet3-subbuild/bullet3-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

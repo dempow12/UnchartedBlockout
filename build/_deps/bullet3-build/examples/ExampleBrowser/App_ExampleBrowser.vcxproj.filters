@@ -1,0 +1,899 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ExampleBrowser\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ExampleBrowser\ExampleEntries.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ExtendedTutorials\Chain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ExtendedTutorials\Bridge.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ExtendedTutorials\RigidBodyFromObj.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ExtendedTutorials\SimpleBox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ExtendedTutorials\MultipleBoxes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ExtendedTutorials\CompoundBoxes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ExtendedTutorials\SimpleCloth.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ExtendedTutorials\SimpleJoint.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ExtendedTutorials\NewtonsCradle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ExtendedTutorials\InclinedPlane.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ExtendedTutorials\MultiPendulum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\BulletRobotics\FixJointBoxes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\BulletRobotics\BoxStack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\BulletRobotics\JointLimit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\TinyRenderer\geometry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\TinyRenderer\model.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\TinyRenderer\tgaimage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\TinyRenderer\our_gl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\TinyRenderer\TinyRenderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\plugins\collisionFilterPlugin\collisionFilterPlugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\plugins\pdControlPlugin\pdControlPlugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\plugins\tinyRendererPlugin\tinyRendererPlugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\plugins\tinyRendererPlugin\TinyRendererVisualShapeConverter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\IKTrajectoryHelper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\PhysicsServer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\PhysicsClientSharedMemory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\PhysicsClientSharedMemory_C_API.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\PhysicsClient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\PhysicsClientC_API.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\GraphicsServerExample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\GraphicsClientExample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\RemoteGUIHelper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\PhysicsServerExample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\PhysicsServerExampleBullet2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\PhysicsClientExample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\PosixSharedMemory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\Win32SharedMemory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\InProcessMemory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\PhysicsServerSharedMemory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\PhysicsDirect.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\PhysicsDirectC_API.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\SharedMemoryInProcessPhysicsC_API.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\PhysicsLoopBack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\PhysicsLoopBackC_API.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\PhysicsServerCommandProcessor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\b3PluginManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\b3RobotSimulatorClientAPI_NoGUI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\b3RobotSimulatorClientAPI_NoDirect.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\RobotSimulator\b3RobotSimulatorClientAPI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\BasicDemo\BasicExample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\InverseDynamics\InverseDynamicsExample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\InverseKinematics\InverseKinematicsExample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ForkLift\ForkLiftDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\MultiThreadedDemo\MultiThreadedDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\MultiThreadedDemo\CommonRigidBodyMTBase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Heightfield\HeightfieldExample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Tutorial\Tutorial.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Tutorial\Dof6ConstraintTutorial.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Evolution\NN3DWalkers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ExtendedTutorials\NewtonsRopeCradle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Collision\CollisionSdkC_Api.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Collision\CollisionTutorialBullet2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Collision\Internal\Bullet2CollisionSdk.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Collision\Internal\RealTimeBullet3CollisionSdk.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\GyroscopicDemo\GyroscopicSetup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Planar2D\Planar2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\RollingFrictionDemo\RollingFrictionDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\FractureDemo\FractureDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\FractureDemo\btFractureBody.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\FractureDemo\btFractureDynamicsWorld.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\DynamicControlDemo\MotorDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\MultiThreading\MultiThreadingExample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\MultiThreading\b3PosixThreadSupport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\MultiThreading\b3Win32ThreadSupport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\MultiThreading\b3ThreadSupportInterface.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\RenderingExamples\TinyRendererSetup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\RenderingExamples\TimeSeriesCanvas.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\RenderingExamples\TimeSeriesFontData.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\RenderingExamples\DynamicTexturedCubeDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\RenderingExamples\TinyVRGui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\RoboticsLearning\GripperGraspExample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\RoboticsLearning\R2D2GraspExample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\RoboticsLearning\KukaGraspExample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\RenderingExamples\CoordinateSystemDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\RenderingExamples\RaytracerSetup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\RenderingExamples\RenderInstancingDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\RenderingExamples\TimeSeriesExample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Benchmarks\BenchmarkDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Raycast\RaytestDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportBullet\SerializeSetup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportMeshUtility\b3ImportMeshUtility.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\Extras\Serialize\BulletWorldImporter\btWorldImporter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\Extras\Serialize\BulletWorldImporter\btMultiBodyWorldImporter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\Extras\Serialize\BulletWorldImporter\btBulletWorldImporter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\Extras\Serialize\BulletFileLoader\bChunk.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\Extras\Serialize\BulletFileLoader\bFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\Extras\Serialize\BulletFileLoader\bDNA.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\Extras\Serialize\BulletFileLoader\btBulletFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportMJCFDemo\BulletMJCFImporter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportMJCFDemo\ImportMJCFSetup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportBsp\BspConverter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportBsp\BspLoader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportBsp\ImportBspExample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportColladaDemo\ImportColladaSetup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportColladaDemo\LoadMeshFromCollada.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportObjDemo\ImportObjExample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportObjDemo\LoadMeshFromObj.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportObjDemo\Wavefront2GLInstanceGraphicsShape.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportSTLDemo\ImportSTLSetup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportSDFDemo\ImportSDFSetup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportURDFDemo\ImportURDFSetup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportURDFDemo\URDF2Bullet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportURDFDemo\MyMultiBodyCreator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportURDFDemo\UrdfParser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Utils\RobotLoggingUtil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportURDFDemo\urdfStringSplit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportURDFDemo\BulletUrdfImporter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\VoronoiFracture\VoronoiFractureDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\VoronoiFracture\btConvexConvexMprAlgorithm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Vehicles\Hinge2Vehicle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\MultiBody\Pendulum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\MultiBody\MultiBodySoftContact.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\MultiBody\TestJointTorqueSetup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\MultiBody\InvertedPendulumPDControl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\MultiBody\MultiBodyConstraintFeedback.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\MultiBody\KinematicMultiBodyExample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SoftDemo\SoftDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\DeformableDemo\DeformableContact.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\DeformableDemo\GraspDeformable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\DeformableDemo\Pinch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\DeformableDemo\DeformableSelfCollision.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\DeformableDemo\PinchFriction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\DeformableDemo\ClothFriction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\DeformableDemo\DeformableMultibody.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\DeformableDemo\DeformableRigid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\DeformableDemo\SplitImpulse.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\DeformableDemo\VolumetricDeformable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\DeformableDemo\Collide.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\DeformableDemo\LargeDeformation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\DeformableDemo\LoadDeformed.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\DeformableDemo\DeformableClothAnchor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\DeformableDemo\MultibodyClothAnchor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\MultiBody\MultiDofDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\RigidBody\RigidBodySoftContact.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\RigidBody\KinematicRigidBodyExample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ReducedDeformableDemo\ConservationTest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ReducedDeformableDemo\Springboard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ReducedDeformableDemo\ModeVisualizer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ReducedDeformableDemo\FreeFall.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ReducedDeformableDemo\FrictionSlope.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ReducedDeformableDemo\ReducedCollide.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ReducedDeformableDemo\ReducedGrasp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ReducedDeformableDemo\ReducedBenchmark.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ReducedDeformableDemo\ReducedMotorGrasp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Constraints\TestHingeTorque.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Constraints\ConstraintDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Constraints\Dof6Spring2Setup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Constraints\ConstraintPhysicsSetup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image_write.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\Wavefront\tiny_obj_loader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\tinyxml2\tinyxml2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ExampleBrowser\InProcessExampleBrowser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ExampleBrowser\ExampleEntries.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ExtendedTutorials\Chain.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ExtendedTutorials\Bridge.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ExtendedTutorials\RigidBodyFromObj.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ExtendedTutorials\SimpleBox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ExtendedTutorials\MultipleBoxes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ExtendedTutorials\CompoundBoxes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ExtendedTutorials\SimpleCloth.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ExtendedTutorials\SimpleJoint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ExtendedTutorials\NewtonsCradle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ExtendedTutorials\InclinedPlane.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ExtendedTutorials\MultiPendulum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\plugins\collisionFilterPlugin\collisionFilterPlugin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\plugins\pdControlPlugin\pdControlPlugin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\IKTrajectoryHelper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\GraphicsServerExample.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\GraphicsClientExample.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\RemoteGUIHelper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\GraphicsSharedMemoryCommands.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\GraphicsSharedMemoryPublic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\PhysicsDirect.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\PhysicsDirectC_API.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\PhysicsLoopBack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\PhysicsLoopBackC_API.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\PhysicsServerCommandProcessor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\SharedMemoryCommands.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\SharedMemoryPublic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\b3RobotSimulatorClientAPI_NoGUI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SharedMemory\b3RobotSimulatorClientAPI_NoDirect.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\RobotSimulator\b3RobotSimulatorClientAPI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\BasicDemo\BasicExample.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\InverseDynamics\InverseDynamicsExample.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\InverseKinematics\InverseKinematicsExample.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ForkLift\ForkLiftDemo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\MultiThreadedDemo\MultiThreadedDemo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\MultiThreadedDemo\CommonRigidBodyMTBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Heightfield\HeightfieldExample.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Tutorial\Tutorial.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Tutorial\Dof6ConstraintTutorial.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Evolution\NN3DWalkers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Evolution\NN3DWalkersTimeWarpBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ExtendedTutorials\NewtonsRopeCradle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Collision\CollisionSdkC_Api.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Collision\CollisionTutorialBullet2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Collision\Internal\Bullet2CollisionSdk.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Collision\Internal\CollisionSdkInterface.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Collision\Internal\RealTimeBullet3CollisionSdk.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\GyroscopicDemo\GyroscopicSetup.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Planar2D\Planar2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\RollingFrictionDemo\RollingFrictionDemo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\FractureDemo\FractureDemo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\FractureDemo\btFractureBody.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\FractureDemo\btFractureDynamicsWorld.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\DynamicControlDemo\MotorDemo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\RenderingExamples\TimeSeriesCanvas.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\RenderingExamples\TimeSeriesFontData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\RenderingExamples\DynamicTexturedCubeDemo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\RenderingExamples\TinyVRGui.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\RoboticsLearning\GripperGraspExample.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\RoboticsLearning\R2D2GraspExample.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\RoboticsLearning\KukaGraspExample.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\RenderingExamples\CoordinateSystemDemo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\RenderingExamples\RaytracerSetup.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\RenderingExamples\RenderInstancingDemo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Benchmarks\BenchmarkDemo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Benchmarks\landscapeData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Benchmarks\TaruData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportBsp\BspConverter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportBullet\SerializeSetup.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportMeshUtility\b3ImportMeshUtility.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportBsp\BspLoader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportBsp\ImportBspExample.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportColladaDemo\btMatrix4x4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportColladaDemo\ColladaGraphicsInstance.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportColladaDemo\ImportColladaSetup.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportColladaDemo\LoadMeshFromCollada.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportObjDemo\ImportObjExample.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportObjDemo\LoadMeshFromObj.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportObjDemo\Wavefront2GLInstanceGraphicsShape.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportSTLDemo\ImportSTLSetup.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportSTLDemo\LoadMeshFromSTL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportURDFDemo\ConvertRigidBodies2MultiBody.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportURDFDemo\ImportURDFSetup.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportURDFDemo\URDF2Bullet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportURDFDemo\urdf_samples.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportMJCFDemo\BulletMJCFImporter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportMJCFDemo\ImportMJCFSetup.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportURDFDemo\MyMultiBodyCreator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Utils\RobotLoggingUtil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportURDFDemo\urdfStringSplit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Importers\ImportURDFDemo\BulletUrdfImporter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\VoronoiFracture\VoronoiFractureDemo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\VoronoiFracture\btConvexConvexMprAlgorithm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Vehicles\Hinge2Vehicle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\MultiBody\TestJointTorqueSetup.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\MultiBody\InvertedPendulumPDControl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\SoftDemo\SoftDemo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\DeformableDemo\DeformableContact.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\DeformableDemo\GraspDeformable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\DeformableDemo\Pinch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\DeformableDemo\DeformableSelfCollision.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\DeformableDemo\PinchFriction.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\DeformableDemo\ClothFriction.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\DeformableDemo\DeformableMultibody.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\DeformableDemo\DeformableRigid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\DeformableDemo\SplitImpulse.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\DeformableDemo\VolumetricDeformable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\DeformableDemo\Collide.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\DeformableDemo\LoadDeformed.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\DeformableDemo\LargeDeformation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\DeformableDemo\DeformableClothAnchor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\DeformableDemo\MultibodyClothAnchor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\MultiBody\MultiDofDemo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ReducedDeformableDemo\ConservationTest.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ReducedDeformableDemo\Springboard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ReducedDeformableDemo\ModeVisualizer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ReducedDeformableDemo\FreeFall.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ReducedDeformableDemo\FrictionSlope.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ReducedDeformableDemo\ReducedCollide.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ReducedDeformableDemo\ReducedGrasp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ReducedDeformableDemo\ReducedBenchmark.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ReducedDeformableDemo\ReducedMotorGrasp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Constraints\TestHingeTorque.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Constraints\ConstraintDemo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Constraints\Dof6Spring2Setup.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\Constraints\ConstraintPhysicsSetup.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ThirdPartyLibs\stb_image\stb_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\examples\ExampleBrowser\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\build3\bullet.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{29BD08BA-372D-37CA-8E88-91D2D73A2B74}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{84E8E1ED-B9A4-3693-8DFD-44EEAB9AADA3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

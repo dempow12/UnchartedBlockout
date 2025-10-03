@@ -1,0 +1,45 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL"
+		],
+		"files" : 
+		[
+			"out/build/x64-Debug/_deps/bullet3-src/examples/ThirdPartyLibs/Gwen/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 31,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"lib/gwen_Debug.lib"
+			],
+			"targetId" : "gwen::@b951b7f650eb8d2d0ff5",
+			"targetIndex" : 47,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "_deps/bullet3-build/examples/ThirdPartyLibs/Gwen",
+		"source" : "out/build/x64-Debug/_deps/bullet3-src/examples/ThirdPartyLibs/Gwen"
+	}
+}

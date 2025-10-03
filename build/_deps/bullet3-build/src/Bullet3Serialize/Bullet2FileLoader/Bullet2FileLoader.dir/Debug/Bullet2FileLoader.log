@@ -1,0 +1,8 @@
+﻿  Building Custom Rule C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/bullet3-src/src/Bullet3Serialize/Bullet2FileLoader/CMakeLists.txt
+  b3BulletFile.cpp
+  b3Chunk.cpp
+  b3DNA.cpp
+  b3File.cpp
+  b3Serializer.cpp
+  Generating Code...
+  Bullet2FileLoader.vcxproj -> C:\Users\Admin\Desktop\UnchartedBlockout\build\lib\Debug\Bullet2FileLoader_Debug.lib

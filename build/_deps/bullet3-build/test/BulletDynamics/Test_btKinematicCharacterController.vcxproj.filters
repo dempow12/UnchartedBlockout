@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\test\BulletDynamics\test_btKinematicCharacterController.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-src\test\BulletDynamics\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{84E8E1ED-B9A4-3693-8DFD-44EEAB9AADA3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

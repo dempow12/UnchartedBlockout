@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/bullet3-src/examples/HelloWorld/CMakeLists.txt
+  HelloWorld.cpp
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+  App_HelloWorld.vcxproj -> C:\Users\Admin\Desktop\UnchartedBlockout\build\_deps\bullet3-build\examples\HelloWorld\Debug\App_HelloWorld.exe

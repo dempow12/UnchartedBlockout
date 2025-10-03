@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/bullet3-src/examples/ThirdPartyLibs/clsocket/CMakeLists.txt
+  SimpleSocket.cpp
+  ActiveSocket.cpp
+  PassiveSocket.cpp
+  Generating Code...
+  clsocket.vcxproj -> C:\Users\Admin\Desktop\UnchartedBlockout\build\lib\Debug\clsocket_Debug.lib

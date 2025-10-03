@@ -1,0 +1,39 @@
+﻿  1>Checking Build System
+  CMake is re-running because C:/Users/Admin/Desktop/UnchartedBlockout/build/CMakeFiles/generate.stamp is out-of-date.
+    the file 'C:/Users/Admin/Desktop/UnchartedBlockout/CMakeLists.txt'
+    is newer than 'C:/Users/Admin/Desktop/UnchartedBlockout/build/CMakeFiles/generate.stamp.depend'
+    result='-1'
+  -- Testing if -Werror=pointer-arith can be used -- Failed
+  -- Testing if -Werror=implicit-function-declaration can be used -- Failed
+  -- Testing if -fno-strict-aliasing can be used -- Failed
+  -- Using raylib's GLFW
+  -- Including Win32 support
+  -- Audio Backend: miniaudio
+  -- Building raylib static library
+  -- Generated build type: Debug
+  -- Compiling with the flags:
+  --   PLATFORM=PLATFORM_DESKTOP
+  --   GRAPHICS=GRAPHICS_API_OPENGL_33
+  CMake Deprecation Warning at build/_deps/bullet3-src/CMakeLists.txt:1 (cmake_minimum_required):
+    Compatibility with CMake < 3.10 will be removed from a future version of
+    CMake.
+  
+    Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+    to tell CMake that the project requires at least <min> but has been updated
+    to work with policies introduced by <max> or earlier.
+  
+  
+  CMAKE_EXE_LINKER_FLAGS_DEBUG=/INCREMENTAL:NO /debug /INCREMENTAL
+  OPENGL FOUND
+  opengl32glu32
+  -- Could NOT find Doxygen (missing: DOXYGEN_EXECUTABLE) 
+  
+  ************************************************************
+  * VCI Buildsystem                                          *
+  *                                                          *
+  * Package : OpenMesh                                       *
+  * Version : 11.0.0                                         *
+  ************************************************************
+  -- Configuring done (13.0s)
+  -- Generating done (13.8s)
+  -- Build files have been written to: C:/Users/Admin/Desktop/UnchartedBlockout/build

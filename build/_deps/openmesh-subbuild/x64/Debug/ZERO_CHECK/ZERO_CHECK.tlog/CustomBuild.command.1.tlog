@@ -1,0 +1,10 @@
+^C:\USERS\ADMIN\DESKTOP\UNCHARTEDBLOCKOUT\BUILD\_DEPS\OPENMESH-SUBBUILD\CMAKEFILES\EFF120FC054FFDCA83289633137217F5\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/openmesh-subbuild -BC:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/openmesh-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/openmesh-subbuild/openmesh-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

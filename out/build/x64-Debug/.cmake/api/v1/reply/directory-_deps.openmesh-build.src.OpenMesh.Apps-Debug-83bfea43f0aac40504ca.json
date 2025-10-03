@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "_deps/openmesh-build/src/OpenMesh/Apps",
+		"source" : "out/build/x64-Debug/_deps/openmesh-src/src/OpenMesh/Apps"
+	}
+}

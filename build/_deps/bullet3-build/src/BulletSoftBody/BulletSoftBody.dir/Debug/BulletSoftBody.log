@@ -1,0 +1,23 @@
+﻿  Building Custom Rule C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/bullet3-src/src/BulletSoftBody/CMakeLists.txt
+  btSoftBody.cpp
+  btSoftBodyConcaveCollisionAlgorithm.cpp
+  btSoftBodyHelpers.cpp
+  btSoftBodyRigidBodyCollisionConfiguration.cpp
+  btSoftRigidCollisionAlgorithm.cpp
+  btSoftRigidDynamicsWorld.cpp
+  btSoftMultiBodyDynamicsWorld.cpp
+  btSoftSoftCollisionAlgorithm.cpp
+  btDefaultSoftBodySolver.cpp
+  btDeformableBackwardEulerObjective.cpp
+  btDeformableBodySolver.cpp
+  btDeformableMultiBodyConstraintSolver.cpp
+  btDeformableContactProjection.cpp
+  btDeformableMultiBodyDynamicsWorld.cpp
+  btDeformableContactConstraint.cpp
+  poly34.cpp
+  btReducedDeformableBody.cpp
+  btReducedDeformableBodyHelpers.cpp
+  btReducedDeformableBodySolver.cpp
+  btReducedDeformableContactConstraint.cpp
+  Generating Code...
+  BulletSoftBody.vcxproj -> C:\Users\Admin\Desktop\UnchartedBlockout\build\lib\Debug\BulletSoftBody_Debug.lib

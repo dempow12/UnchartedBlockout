@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/openmesh-subbuild/CMakeFiles/openmesh-populate"
+		},
+		{
+			"file" : "C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/openmesh-subbuild/CMakeFiles/eff120fc054ffdca83289633137217f5/openmesh-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/openmesh-subbuild/CMakeFiles/d56b451ee7288ca8b73641d79e8c79a0/openmesh-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/openmesh-subbuild/CMakeFiles/5d8861adc5d43373788c9c880e7bc95b/openmesh-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/openmesh-subbuild/CMakeFiles/5d8861adc5d43373788c9c880e7bc95b/openmesh-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/openmesh-subbuild/CMakeFiles/5d8861adc5d43373788c9c880e7bc95b/openmesh-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/openmesh-subbuild/CMakeFiles/5d8861adc5d43373788c9c880e7bc95b/openmesh-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/openmesh-subbuild/CMakeFiles/5d8861adc5d43373788c9c880e7bc95b/openmesh-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/openmesh-subbuild/CMakeFiles/5d8861adc5d43373788c9c880e7bc95b/openmesh-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/openmesh-subbuild/CMakeFiles/5d8861adc5d43373788c9c880e7bc95b/openmesh-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/openmesh-subbuild/CMakeFiles/5d8861adc5d43373788c9c880e7bc95b/openmesh-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"openmesh-populate"
+		],
+		"name" : "openmesh-populate"
+	}
+}

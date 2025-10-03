@@ -1,0 +1,15 @@
+﻿  Building Custom Rule C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/bullet3-src/examples/ExampleBrowser/CMakeLists.txt
+  OpenGLExampleBrowser.cpp
+  OpenGLGuiHelper.cpp
+  GL_ShapeDrawer.cpp
+  CollisionShape2TriangleMesh.cpp
+  b3Clock.cpp
+  ChromeTraceUtil.cpp
+  b3ResourcePath.cpp
+  GraphingTexture.cpp
+  GwenParameterInterface.cpp
+  GwenProfileWindow.cpp
+  GwenTextureWindow.cpp
+  gwenUserInterface.cpp
+  Generating Code...
+  BulletExampleBrowserLib.vcxproj -> C:\Users\Admin\Desktop\UnchartedBlockout\build\lib\Debug\BulletExampleBrowserLib_Debug.lib

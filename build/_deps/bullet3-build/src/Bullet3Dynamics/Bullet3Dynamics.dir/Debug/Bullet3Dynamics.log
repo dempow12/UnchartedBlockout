@@ -1,0 +1,9 @@
+﻿  Building Custom Rule C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/bullet3-src/src/Bullet3Dynamics/CMakeLists.txt
+  b3CpuRigidBodyPipeline.cpp
+  b3FixedConstraint.cpp
+  b3Generic6DofConstraint.cpp
+  b3PgsJacobiSolver.cpp
+  b3Point2PointConstraint.cpp
+  b3TypedConstraint.cpp
+  Generating Code...
+  Bullet3Dynamics.vcxproj -> C:\Users\Admin\Desktop\UnchartedBlockout\build\lib\Debug\Bullet3Dynamics_Debug.lib

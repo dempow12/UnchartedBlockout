@@ -1,0 +1,10 @@
+﻿  Building Custom Rule C:/Users/Admin/Desktop/UnchartedBlockout/build/_deps/raylib-src/src/CMakeLists.txt
+  raudio.c
+  rcore.c
+  rmodels.c
+  rshapes.c
+  rtext.c
+  rtextures.c
+  utils.c
+  Generating Code...
+  raylib.vcxproj -> C:\Users\Admin\Desktop\UnchartedBlockout\build\lib\Debug\raylib_Debug.lib
